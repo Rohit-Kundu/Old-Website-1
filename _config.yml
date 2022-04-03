@@ -1,0 +1,36 @@
+title: "Rohit Kundu"
+author: "Rohit Kundu"
+description: "Department of Electrical Engineering, Jadavpur University"
+skills: "Researcher on Deep Learning for Computer Vision"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+footer:
+  copyright: Rohit Kundu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Home", file: "index.md"}
+  - {title: "Research", file: "research.md"}
+  #- {title: "Journey", file: "journey.md"}
+  #- {title: "CV", url: "https://drive.google.com/file/d/1uQx0LEsc5uYA7tcKFiBGeHyq5MCthD1l/view?usp=sharing/target=_blank"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:rohitkunduju@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Rohit-Kundu"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed

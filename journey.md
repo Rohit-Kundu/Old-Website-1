@@ -1,0 +1,24 @@
+---
+layout: page
+categories: media
+---
+I will briefly describe my journey into the world of research below if you are interested to know.
+
+I am from Kolkata, India, and studied in [South Point High School](https://www.southpoint.edu.in/) in the science stream. I ranked 564 in the West Bengal Joint Entrance Examination to secure a spot in the [Department of Electrical Engineering, Jadavpur University](http://www.jaduniv.edu.in/view_department.php?deptid=58), a premier educational institution in India. My first year of college was like anyone else's, having just transitioned from school to college life took a bit of time to settle in.
+
+<img src="/images/ju_img.jpg">
+
+Being a scientist was always a dream of mine, which somehow got lost in the way due to the educational pressure that the Indian curriculum imposes on its students. In my second year of college, I started exploring the Signal Processing domain and developed a knack for it. I started working on simple Image Processing problems to fairly challenging ones. I met an amazing senior ([Hritam Basak](https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en&oi=ao)) who first introduced me to Deep Learning and we started research together which led to our paper [Comparative Study of Maturation Profiles of Neural Cells in Different Species with the Help of Computer Vision and Deep Learning](https://doi.org/10.1007/978-981-16-0425-6_26), which is the first paper either of us published. We won the first prize for this paper at the paper presentation contest, titled "Papier 2.0", organized by the Department of Electrical Engineering, Jadavpur University (image shown below). That's when I finally decided that I wanted to pursue further research in the field of Deep Learning for its countless possibilities to the human race. One thing that interests me most from my childhood is the cosmos. And space exploration heavily depends on the capabilities of Artificial Intelligence (take the automated [Ingenuity helicopter](https://mars.nasa.gov/technology/helicopter/) of [Curiosity Rover](https://mars.nasa.gov/msl/home/) roaming the Red Planet for example). I want to try and help in that area through my research as well.
+
+<img src="/images/convolution.jpg"> (Left to Right: Me, [Hritam Basak](https://scholar.google.com/citations?user=29wTOh4AAAAJ&hl=en&oi=ao), [Prof. Sugata Munshi](https://scholar.google.com/citations?user=4QDUROsAAAAJ&hl=en&oi=ao))
+
+Due to the ongoing projects at the time and the experience I had gathered, I got accepted at National Chiao Tung University, Taiwan for a 2-month fully funded research internship. However, it got cancelled due to COVID-19 which was truly heartbreaking. That's when I started working on projects that deal with medical image diagnosis using Deep Learning including the automated detection of COVID-19.  Lockdown started in India in April 2020 and that's when I devoted all my awake time to research. I worked on a large number of projects, working under amazing professors in and outside of India. Currently (3rd July 2021), I have more than 20 papers in the pipeline (some of them have been published or have been accepted for publication (See my [Google Scholar](https://scholar.google.com/citations?user=MxZUU8kAAAAJ&hl=en&oi=ao) for more info), and I am a recognized reviewer for notable peer-reviewed journals and I plan to pursue a PhD in the domain. I am a recipient of [Mitacs Globalink Research Internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) which I am pursuing virutally due to the COVID-19 pandemic.
+
+<img src="/images/mitacs.png">(Virtual Internship Meeting with [Prof. Christian Desrosiers](https://scholar.google.com/citations?user=XJ0jF3gAAAAJ&hl=en&oi=ao) and [Prof. Herve Lombaert](https://scholar.google.com/citations?user=KQbyRzIAAAAJ&hl=en))
+
+Other than that, I have worked/work in the following laboratories:
+- [CMATER Lab](https://cmaterju.wordpress.com/faculty/), Jadavpur University, India
+- [Evolutionary Computation and Intelligent Systems Laboratory](http://ecis.knu.ac.kr/), Kyunpook National University, Daegu Campus, South Korea
+- [Visual Computing Group](https://vcg.engr.ucr.edu/), University of California, Riverside, USA
+
+I always looked up to researchers for their immense contribution to society, for their superior intellect, for their ways of looking into things differently than others, for finding solutions to problems that were deemed impossible to find. And now I am on the path to becoming one myself, although I do have a long way to go to achieve that. However, I am always exhilarated for the journey and the experiences it entails. I love every moment of what work I do. Addressing new challenges collaboratively leads to invaluable ecstasy for the knowledge and insight gained. I wish to dedicate my entire life to research and hope to do some good for furthering the human race.
